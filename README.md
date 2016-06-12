@@ -1,5 +1,3 @@
-# nodejs.org Re-Design
+# Re-designed nodejs.org
 
-Re-design of the Node.js website.
-
-This repo is only for images, html and css assets for the re-design. Once the design work is ready it will be ported to the existing nodejs.org repo.
+This repo has been created for retrieving the community's feedback on the next design of our website. Please note that it only exists for the purpose of collecting everyone's opinions and hosting project files and assets of the design. Once the design is ready, the development work will continue on the [existing repo](https://github.com/nodejs/nodejs.org).
